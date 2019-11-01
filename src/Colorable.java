@@ -1,0 +1,4 @@
+interface Colorable {
+    void howtoColor();
+}
+
